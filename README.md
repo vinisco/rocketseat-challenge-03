@@ -18,7 +18,7 @@ Install dependencies
 yarn
 ```
 
-# 💻 About the Challenge
+# About the Challenge
 
 ## This will be an application for perform database queries with TypeORM in three ways:
 
@@ -26,7 +26,7 @@ yarn
 - Using Query Builder
 - Using Raw Query
 
-Test Solution
+# Test Solution ⚙
 
 ```bash
 yarn test
